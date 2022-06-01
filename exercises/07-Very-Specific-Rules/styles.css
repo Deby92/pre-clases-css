@@ -1,3 +1,14 @@
+#list2 {
+	color: red;
+}
+.class2 {
+	background-color: green;
+}
+
+tr:nth-child(even) {
+	background-color: yellow;
+}
+
 /** Insert your code here **/
 
 /*********** READ ONLY BLOCK ******
